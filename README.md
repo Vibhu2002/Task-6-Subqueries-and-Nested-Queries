@@ -13,7 +13,7 @@ Demonstrate the use of subqueries in SELECT, WHERE, and FROM clauses using MySQL
   - Derived table (subquery in FROM)
 
 ## How to Run
-1. Open MySQL Workbench or DB Browser for SQLite.
+1. Open MySQL Workbench.
 2. Create the tables and insert the sample data.
 3. Run each query to see the results.
 
